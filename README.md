@@ -1,6 +1,6 @@
-# Health IA - Assistente Virtual de Saúde e Bem-Estar
+# Health IA - IA em assistencia de Saúde e Bem-Estar
 
-Atividade proposta pelo professor de Mobile. Este projeto é uma API Node.js que utiliza o modelo GPT da OpenAI para criar um assistente virtual chamado *Health IA*, especializado em responder dúvidas sobre saúde e bem-estar de forma simples e prática.
+O projeto é uma API Node.js que utiliza o modelo GPT da OpenAI para criar uma IA em assistente virtual chamado *Health IA*, especializado em responder dúvidas sobre saúde e bem-estar de forma simples e prática.
 
 ## Funcionalidades
 
@@ -66,6 +66,3 @@ curl -X POST http://localhost:3001/chat
 -d "{\"message\": \"Como melhorar meu sono?\"}"
 ```
 
-## Sobre
-
-Este projeto foi desenvolvido para servir como um assistente virtual focado em saúde e bem-estar, utilizando a API da OpenAI para gerar respostas inteligentes e acessíveis.
